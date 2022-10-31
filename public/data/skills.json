@@ -1,0 +1,114 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+    },
+    {
+      "id": 4,
+      "name": "React",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+    },
+    {
+      "id": 5,
+      "name": "SASS",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+    },
+    {
+      "id": 6,
+      "name": "Tailwind",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    },
+    {
+      "id": 7,
+      "name": "Next.js",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+    },
+    {
+      "id": 8,
+      "name": "PHP",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+    },
+    {
+      "id": 9,
+      "name": ".NET Framework",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"
+    },
+    {
+      "id": 10,
+      "name": "C#",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"
+    },
+    {
+      "id": 11,
+      "name": "Firebase",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+    },
+    {
+      "id": 12,
+      "name": "Bootstrap",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    },
+    {
+      "id": 13,
+      "name": "Material UI",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg"
+    },
+    {
+      "id": 14,
+      "name": "NPM",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+    },
+    {
+      "id": 15,
+      "name": "GIT",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
+    },
+    {
+      "id": 16,
+      "name": "GitHub",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
+    },
+    {
+      "id": 17,
+      "name": "Vite Bundler",
+      "image": "/img/vite-svgrepo-com.svg"
+    },
+    {
+      "id": 18,
+      "name": "Parcel Bundler",
+      "image": "/img/parcel-icon-svgrepo-com.svg"
+    },
+    {
+      "id": 19,
+      "name": "Vercel",
+      "image": "/img/vercel-svgrepo-com.svg"
+    },
+    {
+      "id": 20,
+      "name": "Vercel",
+      "image": "/img/netlify-svgrepo-com.svg"
+    },
+    {
+      "id": 21,
+      "name": "VS Code",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    },
+    {
+      "id": 22,
+      "name": "Visual Studio",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
+    }
+  ]
+}
