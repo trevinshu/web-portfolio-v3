@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "title": "Notes Application",
+      "image": "/img/react-firebase-notes-app.vercel.app_.png",
+      "description": "Single Page Web Application that allows authenticated users to Create, Read, Update and Delete (CRUD) notes.",
+      "stack": "React, Tailwind CSS, Daisy UI, Firebase",
+      "GitHub": "www.github.com",
+      "Web": "www.web.com"
+    },
+    {
+      "title": "Weather Application",
+      "image": "/img/react-weather-app-trevinshu-screenshot.png",
+      "description": "Single Page Web Application that allows users to look up the weather of a location using data fetched using the Accuweather API",
+      "stack": "React, Tailwind CSS",
+      "GitHub": "www.github.com",
+      "Web": "www.web.com"
+    },
+    {
+      "title": "Movie/TV Application",
+      "image": "/img/react-weather-app-trevinshu-screenshot.png",
+      "description": "Multi Page Web Application that allows users to look up the movie and tv information using data fetched from the MovieDB API",
+      "stack": "HTML, SASS, JavaScript",
+      "GitHub": "www.github.com",
+      "Web": "www.web.com"
+    }
+  ]
+}
