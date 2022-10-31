@@ -1,6 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import ProfilePic from '../public/img/profilepic-medium.jpg';
+import Heading from './Heading';
 function AboutMe() {
   return (
     <div className="flex flex-col gap-10 items-center md:flex-row">
@@ -8,7 +9,7 @@ function AboutMe() {
         <Image src={ProfilePic} alt="profile pic" layout="fill" priority="true" className="rounded-xl" width={350} />
       </>
       <div className="flex flex-col justify-center items-start gap-5">
-        <h2 className="text-2xl font-bold uppercase tracking-widest underline decoration-wavy decoration-indigo-800 underline-offset-4">About Me</h2>
+        <Heading>About Me</Heading>
         <p className="text-lg text-zinc-800 text-left tracking-widest  break-words leading-loose xl:text-xl">
           I am a Web Developer based in Edmonton, Alberta, Canada. I am passionate about building and delivering Web Applications that are aesthetically pleasing, feature rich, responsive and
           compliant with the latest accessibility standards.
