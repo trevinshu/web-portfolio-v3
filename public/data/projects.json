@@ -1,6 +1,7 @@
 {
   "projects": [
     {
+      "id": 1,
       "title": "Notes Application",
       "image": "/img/react-firebase-notes-app.vercel.app_.png",
       "description": "Single Page Web Application that allows authenticated users to Create, Read, Update and Delete (CRUD) notes.",
@@ -9,6 +10,7 @@
       "Web": "www.web.com"
     },
     {
+      "id": 2,
       "title": "Weather Application",
       "image": "/img/react-weather-app-trevinshu-screenshot.png",
       "description": "Single Page Web Application that allows users to look up the weather of a location using data fetched using the Accuweather API",
@@ -17,6 +19,7 @@
       "Web": "www.web.com"
     },
     {
+      "id": 3,
       "title": "Movie/TV Application",
       "image": "/img/react-weather-app-trevinshu-screenshot.png",
       "description": "Multi Page Web Application that allows users to look up the movie and tv information using data fetched from the MovieDB API",

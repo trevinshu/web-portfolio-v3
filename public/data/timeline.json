@@ -1,18 +1,21 @@
 {
   "activities": [
     {
+      "id": 1,
       "title": "Diploma Digital Media & IT specializing in Computer Software Development",
       "from": "2019 to 2021",
       "location": "Northern Alberta Institute of Technology - Edmonton, Alberta",
       "description": "During my studies at NAIT I enrolled in a variety of programs such as Front-End Web Development, Web Design Fundamentals, Advanced Web Concepts, Intermediate Application Development, Quality Assurance & Software Testing, Systems Analysis & Design. For my efforts I received an Exemplary Academic Achievement Award in the Digital Media & IT Program for the Winter 2020 Semester and I was on Dean's Honor Roll two times (Fall 2020 & Fall 2021)."
     },
     {
+      "id": 2,
       "title": "Intern/Practicum Placement",
       "from": "2018 to 2018",
       "location": "Web3 Marketing - Edmonton, Alberta",
       "description": "At Web3 I researched, photoshopped and printed unique web designs. I assisted in day-to-day office tasks such as relaying messages and running errands"
     },
     {
+      "id": 3,
       "title": "Diploma Network & Database Management",
       "from": "2016 to 2018",
       "location": "CDI - Edmonton, Alberta",
