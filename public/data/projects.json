@@ -4,28 +4,121 @@
       "id": 1,
       "title": "Notes Application",
       "image": "/img/react-firebase-notes-app.vercel.app_.png",
-      "description": "Single Page Web Application that allows authenticated users to Create, Read, Update and Delete (CRUD) notes.",
-      "stack": "React, Tailwind CSS, Daisy UI, Firebase",
-      "GitHub": "www.github.com",
-      "Web": "www.web.com"
+      "description": "A single Page Web Application that allows users to Create, Read, Update and Delete (CRUD) notes. Authenticated users can add notes and only the original author of a note can view, edit or delete a note.",
+      "stack": [
+        {
+          "name": "React",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+        },
+        {
+          "name": "Firebase",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
+        }
+      ],
+      "GitHub": "https://github.com/trevinshu/react-firebase-notes-app",
+      "Web": "https://react-firebase-notes-app.vercel.app/"
     },
     {
       "id": 2,
       "title": "Weather Application",
-      "image": "/img/react-weather-app-trevinshu-screenshot.png",
-      "description": "Single Page Web Application that allows users to look up the weather of a location using data fetched using the Accuweather API",
-      "stack": "React, Tailwind CSS",
-      "GitHub": "www.github.com",
-      "Web": "www.web.com"
+      "image": "/img/react-weather-app-trevinshu.vercel.app_.png",
+      "description": "A single Page Web Application that let's users search for the weather. I used the Accuweather API to display a list of locations that matched the users search criteria and let them select the location that closely or exactly matched their search criteria",
+      "stack": [
+        {
+          "name": "React",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+        }
+      ],
+      "GitHub": "https://github.com/trevinshu/react-weather-app",
+      "Web": "https://react-weather-app-trevinshu.vercel.app/"
     },
     {
       "id": 3,
-      "title": "Movie/TV Application",
-      "image": "/img/react-weather-app-trevinshu-screenshot.png",
-      "description": "Multi Page Web Application that allows users to look up the movie and tv information using data fetched from the MovieDB API",
-      "stack": "HTML, SASS, JavaScript",
-      "GitHub": "www.github.com",
-      "Web": "www.web.com"
+      "title": "ESW IT Business Advisors Reporting Portal",
+      "image": "/img/capstone-demo.netlify.app_.png",
+      "description": "A single page redesign and rebuild of existing ESW's internal reporting portal. Data was retrieved from and displayed using an internal API provided to us by E.S.W. This was the capstone project for my Digital Media & IT course.",
+      "stack": [
+        {
+          "name": "React",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+        },
+        {
+          "name": "Styled Components",
+          "image": "/img/styled-components-svgrepo-com.svg"
+        }
+      ],
+      "GitHub": "https://github.com/trevinshu/ESW-Reporting-Portal-Scrubbed",
+      "Web": "https://capstone-demo.netlify.app/"
+    },
+    {
+      "id": 4,
+      "title": "Movie/TV Info Application",
+      "image": "/img/trevins-movie-tv-app.netlify.app_.png",
+      "description": "A Multi Page Web Application that allows users to look up information of a movie or tv show of their choosing. Movie/TV show was retrieved using the MovieDB API.",
+      "stack": [
+        {
+          "name": "HTML",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "SASS",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        }
+      ],
+      "GitHub": "https://github.com/trevinshu/movietvapp",
+      "Web": "https://trevins-movie-tv-app.netlify.app/"
+    },
+    {
+      "id": 5,
+      "title": "Recipe Application",
+      "image": "/img/trevins-recipe-app.netlify.app_.png",
+      "description": "A Multi Page Web Application that allows users to retrieve a list of recipes based on food category or via search input.",
+      "stack": [
+        {
+          "name": "HTML",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "SASS",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        }
+      ],
+      "GitHub": "https://github.com/trevinshu/recipeapp",
+      "Web": "https://trevins-recipe-app.netlify.app/"
+    },
+    {
+      "id": 6,
+      "title": "Web Portfolio",
+      "image": "/img/trevins-recipe-app.netlify.app_.png",
+      "description": "Version 4.0 of my web portfolio showcasing who I am, my projects, work/project experience and my social links/contact information",
+      "stack": [
+        {
+          "name": "Next.js",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+        }
+      ],
+      "GitHub": "https://github.com/trevinshu/web-portfolio-v3",
+      "Web": "https://trevinshu.me"
     }
   ]
 }

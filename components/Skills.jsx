@@ -11,7 +11,7 @@ function Skills() {
         {skills.skills.map((skill) => {
           return (
             <div key={skill.id} className="flex flex-col items-center justify-center border-zinc-800 border-solid border-4 rounded-sm p-5 gap-3">
-              <Image alt="skill image" src={skill.image} width={50} height={50} />
+              <Image alt="skill image" src={skill.image} width="50" height="50" className="w-1/2 h-auto xl:w-1/3" sizes="100vw" />
               <h2 className="text-center tracking-widest text-zinc-800">{skill.name}</h2>
             </div>
           );

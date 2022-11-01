@@ -6,7 +6,7 @@ function AboutMe() {
   return (
     <div className="flex flex-col gap-10 items-center md:flex-row">
       <>
-        <Image src={ProfilePic} alt="profile pic" layout="fill" priority="true" className="rounded-xl" width={350} />
+        <Image src={ProfilePic} alt="profile pic" layout="fill" priority="true" className="w-1/2 h-auto rounded-md 2xl:w-1/5" sizes="100vw" width="404" height="500" />
       </>
       <div className="flex flex-col justify-center items-start gap-5">
         <Heading>About Me</Heading>
