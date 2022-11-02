@@ -1,7 +1,6 @@
 import React from 'react';
 import Heading from './Heading';
 import projects from '../public/data/projects.json';
-import Link from 'next/link';
 import Image from 'next/image';
 
 function Projects() {

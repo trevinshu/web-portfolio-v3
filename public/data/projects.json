@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Notes Application",
       "image": "/img/react-firebase-notes-app.vercel.app_.png",
-      "description": "A single Page Web Application that allows users to Create, Read, Update and Delete (CRUD) notes. Authenticated users can add notes and only the original author of a note can view, edit or delete a note.",
+      "description": "Single Page Full Stack Web Application that allows authenticated users to Create, Read, Update & Delete Notes.",
       "stack": [
         {
           "name": "React",
@@ -26,7 +26,7 @@
       "id": 2,
       "title": "Weather Application",
       "image": "/img/react-weather-app-trevinshu.vercel.app_.png",
-      "description": "A single Page Web Application that let's users search for the weather. I used the Accuweather API to display a list of locations that matched the users search criteria and let them select the location that closely or exactly matched their search criteria",
+      "description": "Single Page Web Application that fetches and displays weather information from an external API (AccuWeather) that matches the location the user searched for.",
       "stack": [
         {
           "name": "React",
@@ -44,7 +44,7 @@
       "id": 3,
       "title": "ESW IT Business Advisors Reporting Portal",
       "image": "/img/capstone-demo.netlify.app_.png",
-      "description": "A single page redesign and rebuild of existing ESW's internal reporting portal. Data was retrieved from and displayed using an internal API provided to us by E.S.W. This was the capstone project for my Digital Media & IT course.",
+      "description": "My class & I redesigned & rebuilt ESW's existing Reporting Portal for our capstone project.",
       "stack": [
         {
           "name": "React",
@@ -62,7 +62,7 @@
       "id": 4,
       "title": "Movie/TV Info Application",
       "image": "/img/trevins-movie-tv-app.netlify.app_.png",
-      "description": "A Multi Page Web Application that allows users to look up information of a movie or tv show of their choosing. Movie/TV show was retrieved using the MovieDB API.",
+      "description": "Multi Page Web Application similar to IMDB that fetches and displays Movie/TV Show information from an external API (TMDB) that matches the user's search criteria or the genre they selected. ",
       "stack": [
         {
           "name": "HTML",
@@ -84,7 +84,7 @@
       "id": 5,
       "title": "Recipe Application",
       "image": "/img/trevins-recipe-app.netlify.app_.png",
-      "description": "A Multi Page Web Application that allows users to retrieve a list of recipes based on food category or via search input.",
+      "description": "Multi Page Web Application similar to Allrecipes that fetches and displays a list of recipes from an external API (TheMealDB) that matches the user's search criteria or they category they selected.",
       "stack": [
         {
           "name": "HTML",
