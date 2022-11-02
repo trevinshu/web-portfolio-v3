@@ -8,8 +8,4 @@ module.exports = {
   images: {
     domains: ['cdn.jsdelivr.net'],
   },
-  i18n: {
-    locales: ['en'],
-    defaultLocale: 'en',
-  },
 };
