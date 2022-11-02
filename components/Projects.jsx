@@ -27,10 +27,10 @@ function Projects() {
                 })}
               </div>
               <div className="flex items-center justify-end gap-5 w-full ">
-                <a href={item.GitHub} className="text-3xl" target="_blank" rel="noreferrer">
+                <a href={item.GitHub} className="text-3xl" target="_blank" rel="noreferrer" aria-label="GitHub">
                   <FaGithub />
                 </a>
-                <a href={item.Web} className="text-3xl" target="_blank" rel="noreferrer">
+                <a href={item.Web} className="text-3xl" target="_blank" rel="noreferrer" aria-label="Web">
                   <FaExternalLinkAlt />
                 </a>
               </div>

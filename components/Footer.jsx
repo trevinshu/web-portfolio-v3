@@ -13,6 +13,7 @@ function Footer() {
           className="text-zinc-800 text-center text-2xl tracking-widest hover:underline hover:decoration-wavy hover:decoration-indigo-800 hover:underline-offset-8"
           target="_blank"
           rel="noreferrer"
+          aria-label="GitHub"
         >
           <FaGithub />
         </a>
@@ -21,12 +22,14 @@ function Footer() {
           className="text-zinc-800 text-center text-2xl tracking-widest hover:underline hover:decoration-wavy hover:decoration-indigo-800 hover:underline-offset-8"
           target="_blank"
           rel="noreferrer"
+          aria-label="LinkedIn"
         >
           <FaLinkedinIn />
         </a>
         <a
           href="mailto:trevinshu2008@gmail.com"
           className="text-zinc-800 text-center text-2xl tracking-widest hover:underline hover:decoration-wavy hover:decoration-indigo-800 hover:underline-offset-8"
+          aria-label="Email"
         >
           <MdEmail />
         </a>
