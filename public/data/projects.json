@@ -7,16 +7,13 @@
       "description": "Single Page Full Stack Web Application that allows authenticated users to Create, Read, Update & Delete Notes.",
       "stack": [
         {
-          "name": "React",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+          "name": "React"
         },
         {
-          "name": "Tailwind CSS",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+          "name": "Tailwind CSS"
         },
         {
-          "name": "Firebase",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
+          "name": "Firebase"
         }
       ],
       "GitHub": "https://github.com/trevinshu/react-firebase-notes-app",
@@ -29,12 +26,10 @@
       "description": "Single Page Web Application that fetches and displays weather information from an external API (AccuWeather) that matches the location the user searched for.",
       "stack": [
         {
-          "name": "React",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+          "name": "React"
         },
         {
-          "name": "Tailwind CSS",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+          "name": "Tailwind CSS"
         }
       ],
       "GitHub": "https://github.com/trevinshu/react-weather-app",
@@ -47,12 +42,10 @@
       "description": "My class & I redesigned & rebuilt ESW's existing Reporting Portal for our capstone project.",
       "stack": [
         {
-          "name": "React",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+          "name": "React"
         },
         {
-          "name": "Styled Components",
-          "image": "/img/styled-components-svgrepo-com.svg"
+          "name": "Styled Components"
         }
       ],
       "GitHub": "https://github.com/trevinshu/ESW-Reporting-Portal-Scrubbed",
@@ -65,16 +58,13 @@
       "description": "Multi Page Web Application similar to IMDB that fetches and displays Movie/TV Show information from an external API (TMDB) that matches the user's search criteria or the genre they selected. ",
       "stack": [
         {
-          "name": "HTML",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+          "name": "HTML"
         },
         {
-          "name": "SASS",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+          "name": "SASS"
         },
         {
-          "name": "JavaScript",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          "name": "JavaScript"
         }
       ],
       "GitHub": "https://github.com/trevinshu/movietvapp",
@@ -87,16 +77,13 @@
       "description": "Multi Page Web Application similar to Allrecipes that fetches and displays a list of recipes from an external API (TheMealDB) that matches the user's search criteria or they category they selected.",
       "stack": [
         {
-          "name": "HTML",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+          "name": "HTML"
         },
         {
-          "name": "SASS",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+          "name": "SASS"
         },
         {
-          "name": "JavaScript",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          "name": "JavaScript"
         }
       ],
       "GitHub": "https://github.com/trevinshu/recipeapp",
@@ -109,12 +96,10 @@
       "description": "Version 4.0 of my web portfolio showcasing who I am, my projects, work/project experience and my social links/contact information",
       "stack": [
         {
-          "name": "Next.js",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+          "name": "Next.js"
         },
         {
-          "name": "Tailwind CSS",
-          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+          "name": "Tailwind CSS"
         }
       ],
       "GitHub": "https://github.com/trevinshu/web-portfolio-v3",
