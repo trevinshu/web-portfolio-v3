@@ -17,7 +17,14 @@ function AboutMe() {
         <p className="text-lg text-zinc-800 text-left tracking-widest  break-words leading-loose xl:text-xl">
           In my free time I like to learn new technologies, binge watch the latest movie or tv show, listen to music or play video games.
         </p>
-        <button className="text-xl border-solid border-zinc-800 border-[3px] px-5 py-3 rounded-sm hover:bg-zinc-800 hover:text-slate-50">Download/View My Resume</button>
+        <a
+          className="text-xl border-solid border-zinc-800 border-[3px] px-5 py-3 rounded-sm hover:bg-zinc-800 hover:text-slate-50"
+          href="resources/Trevin Shu - Resume 2022.pdf"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Download/View My Resume
+        </a>
       </div>
     </div>
   );
