@@ -18,7 +18,7 @@ function AboutMe() {
           In my free time I like to learn new technologies, binge watch the latest movie or tv show, listen to music or play video games.
         </p>
         <a
-          className="text-xl border-solid border-zinc-800 border-[3px] px-5 py-3 rounded-sm hover:bg-zinc-800 hover:text-slate-50"
+          className="text-xl border-solid border-zinc-800 border-[3px] px-5 py-3 rounded-sm hover:scale-110 hover:transition-all hover:ease-in-out"
           href="resources/Trevin Shu - Resume 2022.pdf"
           target="_blank"
           rel="noreferrer"

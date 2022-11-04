@@ -10,7 +10,7 @@ function Footer() {
       <div className="flex justify-center items-center gap-5">
         <a
           href="https://github.com/trevinshu"
-          className="text-zinc-800 text-center text-2xl tracking-widest hover:underline hover:decoration-wavy hover:decoration-indigo-800 hover:underline-offset-8"
+          className="text-zinc-800 text-center text-2xl tracking-widest hover:scale-110 hover:transition-all hover:ease-in-out"
           target="_blank"
           rel="noreferrer"
           aria-label="GitHub"
@@ -19,18 +19,14 @@ function Footer() {
         </a>
         <a
           href="https://www.linkedin.com/in/trevin-shu/"
-          className="text-zinc-800 text-center text-2xl tracking-widest hover:underline hover:decoration-wavy hover:decoration-indigo-800 hover:underline-offset-8"
+          className="text-zinc-800 text-center text-2xl tracking-widest hover:scale-110 hover:transition-all hover:ease-in-out"
           target="_blank"
           rel="noreferrer"
           aria-label="LinkedIn"
         >
           <FaLinkedinIn />
         </a>
-        <a
-          href="mailto:trevinshu2008@gmail.com"
-          className="text-zinc-800 text-center text-2xl tracking-widest hover:underline hover:decoration-wavy hover:decoration-indigo-800 hover:underline-offset-8"
-          aria-label="Email"
-        >
+        <a href="mailto:trevinshu2008@gmail.com" className="text-zinc-800 text-center text-2xl tracking-widest hover:scale-110 hover:transition-all hover:ease-in-out" aria-label="Email">
           <MdEmail />
         </a>
       </div>
