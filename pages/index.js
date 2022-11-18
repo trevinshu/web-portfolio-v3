@@ -3,7 +3,7 @@ import AboutMe from '../components/AboutMe';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import Projects from '../components/Projects';
-import Skills from '../components/Skills';
+import SkillsTools from '../components/SkillsTools';
 import Timeline from '../components/Timeline';
 import { Poppins } from '@next/font/google';
 
@@ -26,7 +26,7 @@ export default function Home() {
       <main className={` bg-slate-50 flex flex-col min-h-screen p-5 gap-12 md:px-16 md:py-12 ${poppins.className}`}>
         <Header />
         <AboutMe />
-        <Skills />
+        <SkillsTools />
         <Timeline />
         <Projects />
         <Footer />

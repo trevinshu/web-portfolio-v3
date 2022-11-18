@@ -3,10 +3,10 @@ import skills from '../public/data/skills.json';
 import Image from 'next/image';
 import Heading from './Heading';
 
-function Skills() {
+function SkillsTools() {
   return (
     <div className="flex flex-col gap-5">
-      <Heading>Skills</Heading>
+      <Heading>Skills & Tools</Heading>
       <div className="grid grid-cols-2 gap-5 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8">
         {skills.skills.map((skill) => {
           return (
@@ -21,4 +21,4 @@ function Skills() {
   );
 }
 
-export default Skills;
+export default SkillsTools;
