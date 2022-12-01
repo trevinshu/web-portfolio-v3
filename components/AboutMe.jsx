@@ -19,7 +19,7 @@ function AboutMe() {
         </p>
         <a
           className="text-lg text-center border-solid border-zinc-800 border-[3px] px-5 py-3 rounded-sm hover:scale-110 hover:transition-all hover:ease-in-out"
-          href="resources/Trevin Shu - Resume 2022.pdf"
+          href="resources/Trevin Shu - Resume.pdf"
           target="_blank"
           rel="noreferrer"
         >
