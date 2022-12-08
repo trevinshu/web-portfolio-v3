@@ -2,6 +2,7 @@ import React from 'react';
 import Heading from './Heading';
 import projects from '../public/data/projects.json';
 import Image from 'next/image';
+
 import { FaExternalLinkAlt, FaGithub } from 'react-icons/fa';
 
 function Projects() {
@@ -13,7 +14,9 @@ function Projects() {
           return (
             <div key={item.id} className="flex items-start justify-start flex-col border-zinc-800 border-solid border-4 rounded-sm p-5 gap-5">
               <h2 className="text-lg font-bold tracking-widest text-zinc-800 underline decoration-wavy decoration-indigo-800 underline-offset-8 leading-loose">{item.title}</h2>
-              <Image alt="project screenshot" src={item.image} width="3840" height="2412" className="w-1/2 m-auto 2xl:w-full" />
+              <a href={item.Web} target="_blank" rel="noreferrer" aria-label="Project Demo">
+                <Image alt="project screenshot" src={item.image} width="3840" height="2412" className="w-1/2 m-auto 2xl:w-full " />
+              </a>
               <div className="flex-1">
                 <p className="text-zinc-800 text-left tracking-widest  break-words leading-loose">{item.description}</p>
               </div>

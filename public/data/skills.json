@@ -66,49 +66,14 @@
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg"
     },
     {
-      "id": 14,
-      "name": "NPM",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-    },
-    {
       "id": 15,
       "name": "GIT",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
     },
     {
-      "id": 16,
-      "name": "GitHub",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
-    },
-    {
-      "id": 17,
-      "name": "Vite Bundler",
-      "image": "/img/vite-svgrepo-com.svg"
-    },
-    {
-      "id": 18,
-      "name": "Parcel Bundler",
-      "image": "/img/parcel-icon-svgrepo-com.svg"
-    },
-    {
-      "id": 19,
-      "name": "Vercel",
-      "image": "/img/vercel-svgrepo-com.svg"
-    },
-    {
-      "id": 20,
-      "name": "Netlify",
-      "image": "/img/netlify-svgrepo-com.svg"
-    },
-    {
-      "id": 21,
-      "name": "VS Code",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-    },
-    {
-      "id": 22,
-      "name": "Visual Studio",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
+      "id": 14,
+      "name": "NPM",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
     }
   ]
 }
