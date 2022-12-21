@@ -6,7 +6,7 @@ function Timeline() {
   return (
     <div className="flex flex-col gap-5 ">
       <Heading>Timeline</Heading>
-      <div className="grid grid-cols-1 gap-5 xl:grid-cols-2">
+      <div className="grid grid-cols-1 gap-5 xl:grid-cols-3">
         {timeline.activities.map((item) => {
           return (
             <div key={item.id} className="flex flex-col border-zinc-800 border-solid border-4 rounded-sm p-5 gap-3">
