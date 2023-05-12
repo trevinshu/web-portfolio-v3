@@ -11,12 +11,12 @@ function AboutMe() {
       <div className="flex flex-col justify-center items-start gap-5">
         <Heading>About Me</Heading>
         <p className="text-zinc-800 text-left tracking-widest  break-words leading-loose">
-          I am a web developer located in Edmonton, Alberta, Canada. My passion lies in crafting web applications that are not only visually stunning but also highly functional and easily accessible,
-          providing users with an exceptional experience.
+          As a web developer located in Edmonton, Alberta, Canada, I&apos;m driven by a passion for crafting visually stunning, highly functional, and fully accessible web applications that offer
+          users an exceptional online experience.
         </p>
         <p className="text-zinc-800 text-left tracking-widest  break-words leading-loose">
-          In my free time, I enjoy staying current with the latest developments in technology. I&apos;m also a huge fan of media! Whether it&apos;s catching the latest movies and TV shows, jamming out
-          to music, or playing video games, I love to immerse myself in the latest entertainment.
+          During my free time, I like to stay up-to-date with the latest advancements in technology and immerse myself in media. Whether it&apos;s catching up on the latest movies and TV shows,
+          jamming to music, or immersing myself in video games, I always find a way to enjoy my leisure time.
         </p>
         <a
           className="text-lg text-center border-solid border-zinc-800 border-[3px] px-5 py-3 rounded-sm hover:scale-110 hover:transition-all hover:ease-in-out"
